@@ -11,7 +11,7 @@
 
 ## What you need first
 
-A normal install of **Wold's Vaults** from the CurseForge launcher. The updater only replaces
+A normal install of **Wold's Vaults** from the CurseForge or Prism launcher. The updater only replaces
 the files this rework changes — it does not install the pack from scratch.
 
 Everything below is powered by [packwiz](https://packwiz.infra.link/), which syncs your
