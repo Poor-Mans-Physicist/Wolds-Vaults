@@ -10,7 +10,7 @@ hash = "ec9e1b27829437eb8d17578403c9b5db2dd32e4e624c3b0be2bb433e37eaed1a"
 
 [[files]]
 file = "README.md"
-hash = "f8b7f520904813a76625af9e783db8b6144e0cc55d90c0d0f66bd13feeefac98"
+hash = "4fc507a2b3eb5e0c0aa770ff09995c8f86225a595c1eec44305c23b4a42e983d"
 
 [[files]]
 file = "config/advancedperipherals/peripherals.toml"
@@ -24820,7 +24820,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "d8e8bef17a55ce0c8e4ffc35440d1e22b3a6fe3ccb19045d81cd72ea19d19abe"
+hash = "2ac44c0c04d36f392ab654c2f9bb2b363e6083c44b5a743348c73e8b3fe9641f"
 metafile = true
 
 [[files]]
