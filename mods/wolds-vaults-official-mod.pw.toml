@@ -1,9 +1,9 @@
 name = "Wold's Vaults Tweaks and Compat"
-filename = "wolds-vaults-official-mod-0.34.1.jar"
+filename = "wolds-vaults-official-mod-0.34.2.jar"
 side = "both"
 pin = true
 
 [download]
-url = "https://github.com/Poor-Mans-Physicist/Wolds-Vaults/releases/download/greed-test-3/wolds-vaults-official-mod-0.34.1.jar"
+url = "https://github.com/Poor-Mans-Physicist/Wolds-Vaults/releases/download/greed-test-4/wolds-vaults-official-mod-0.34.2.jar"
 hash-format = "sha256"
-hash = "6e51199ccdba9339aaff7a14e8bace087304118b56529b5320ef07c099359e5a"
+hash = "a5bc667e8611c486d0b2e5e7bde2691ba9c8ee3ec691c76641ba0538187dfe5d"
