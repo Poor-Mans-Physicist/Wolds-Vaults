@@ -15594,7 +15594,7 @@ hash = "a2ee48d8ccae2edd65ee682c7efcec0bac1de43e695a177c938780a2231eddfe"
 
 [[files]]
 file = "config/the_vault/gods/god_levels.json"
-hash = "c6f5496c000464b40dcd747192b7cbe1c58c0fb4630b796f5a385be8ea5619b5"
+hash = "a13bb57932d4a4f97952d8e321d750864e565a0637e2a41f59632768f2695dc9"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_idona.json"
@@ -24811,7 +24811,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "11302010a7b7015033bb75e02016945e83dcebd783f5466104b7fb82f5dd9fc2"
+hash = "d6f9434e866a6b61e5602f11cdc46b3549162edaf5198c56b269583d16ef1b45"
 metafile = true
 
 [[files]]
