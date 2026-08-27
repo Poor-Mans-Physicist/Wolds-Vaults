@@ -4,6 +4,7 @@
       "id": "wendarr_start_top",
       "name": "Top of the Glass",
       "type": "root",
+      "effect": "wendarr_start_top",
       "cost": 1,
       "enabled": true
     },
@@ -11,6 +12,7 @@
       "id": "wendarr_start_bot",
       "name": "Bottom of the Glass",
       "type": "root",
+      "effect": "wendarr_start_bot",
       "cost": 1,
       "enabled": true
     },
@@ -882,6 +884,7 @@
       "id": "wendarr_start_swift",
       "name": "The Swift",
       "type": "root",
+      "effect": "wendarr_start_swift",
       "cost": 1,
       "enabled": true
     },
@@ -953,6 +956,7 @@
       "id": "wendarr_start_deck",
       "name": "The Deck",
       "type": "root",
+      "effect": "wendarr_start_deck",
       "cost": 1,
       "enabled": true
     },
@@ -1024,6 +1028,7 @@
       "id": "wendarr_start_spanner",
       "name": "The Spanner",
       "type": "root",
+      "effect": "wendarr_start_spanner",
       "cost": 1,
       "enabled": true
     },
@@ -1071,6 +1076,7 @@
       "id": "wendarr_start_bough",
       "name": "The Bough",
       "type": "root",
+      "effect": "wendarr_start_bough",
       "cost": 1,
       "enabled": true
     },

@@ -4,6 +4,7 @@
       "id": "velara_start_bulwark",
       "name": "The Bulwark",
       "type": "root",
+      "effect": "velara_start_bulwark",
       "cost": 1,
       "enabled": true
     },
@@ -19,6 +20,7 @@
       "id": "velara_start_mercy",
       "name": "The Mercy",
       "type": "root",
+      "effect": "velara_start_mercy",
       "cost": 1,
       "enabled": true
     },
@@ -642,6 +644,7 @@
       "id": "velara_start_fern",
       "name": "The Fern",
       "type": "root",
+      "effect": "velara_start_fern",
       "cost": 1,
       "enabled": true
     },
@@ -721,6 +724,7 @@
       "id": "velara_start_briar",
       "name": "The Briar",
       "type": "root",
+      "effect": "velara_start_briar",
       "cost": 1,
       "enabled": true
     },
@@ -800,6 +804,7 @@
       "id": "velara_start_bloom",
       "name": "The Bloom",
       "type": "root",
+      "effect": "velara_start_bloom",
       "cost": 1,
       "enabled": true
     },
@@ -871,6 +876,7 @@
       "id": "velara_start_sapling",
       "name": "The Sapling",
       "type": "root",
+      "effect": "velara_start_sapling",
       "cost": 1,
       "enabled": true
     },

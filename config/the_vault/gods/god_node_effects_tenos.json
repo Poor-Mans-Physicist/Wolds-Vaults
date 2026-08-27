@@ -1,5 +1,53 @@
 {
   "effects": {
+    "tenos_start_hoard": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:item_rarity",
+      "secondAttribute": "the_vault:item_quantity"
+    },
+    "tenos_start_chest": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:item_rarity",
+      "secondAttribute": "the_vault:item_quantity"
+    },
+    "tenos_start_chalice": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:item_rarity",
+      "secondAttribute": "the_vault:item_quantity"
+    },
+    "tenos_start_scales": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:item_rarity",
+      "secondAttribute": "the_vault:item_quantity"
+    },
+    "tenos_start_compass": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:item_rarity",
+      "secondAttribute": "the_vault:item_quantity"
+    },
+    "tenos_start_lantern": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:item_rarity",
+      "secondAttribute": "the_vault:item_quantity"
+    },
     "tenos_hoarder": {
       "handler": "gear_attribute_scaled",
       "values": [

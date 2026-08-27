@@ -4,6 +4,7 @@
       "id": "tenos_start_hoard",
       "name": "The Hoard",
       "type": "root",
+      "effect": "tenos_start_hoard",
       "cost": 1,
       "enabled": true
     },
@@ -19,6 +20,7 @@
       "id": "tenos_start_chest",
       "name": "The Chest",
       "type": "root",
+      "effect": "tenos_start_chest",
       "cost": 1,
       "enabled": true
     },
@@ -762,6 +764,7 @@
       "id": "tenos_start_chalice",
       "name": "The Chalice",
       "type": "root",
+      "effect": "tenos_start_chalice",
       "cost": 1,
       "enabled": true
     },
@@ -833,6 +836,7 @@
       "id": "tenos_start_scales",
       "name": "The Scales",
       "type": "root",
+      "effect": "tenos_start_scales",
       "cost": 1,
       "enabled": true
     },
@@ -904,6 +908,7 @@
       "id": "tenos_start_compass",
       "name": "The Compass",
       "type": "root",
+      "effect": "tenos_start_compass",
       "cost": 1,
       "enabled": true
     },
@@ -951,6 +956,7 @@
       "id": "tenos_start_lantern",
       "name": "The Lantern",
       "type": "root",
+      "effect": "tenos_start_lantern",
       "cost": 1,
       "enabled": true
     },

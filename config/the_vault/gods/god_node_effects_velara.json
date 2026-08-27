@@ -1,5 +1,53 @@
 {
   "effects": {
+    "velara_start_bulwark": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:health_percentile",
+      "secondAttribute": "the_vault:armor_percentile"
+    },
+    "velara_start_mercy": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:health_percentile",
+      "secondAttribute": "the_vault:armor_percentile"
+    },
+    "velara_start_fern": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:health_percentile",
+      "secondAttribute": "the_vault:armor_percentile"
+    },
+    "velara_start_briar": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:health_percentile",
+      "secondAttribute": "the_vault:armor_percentile"
+    },
+    "velara_start_bloom": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:health_percentile",
+      "secondAttribute": "the_vault:armor_percentile"
+    },
+    "velara_start_sapling": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.1
+      ],
+      "attribute": "the_vault:health_percentile",
+      "secondAttribute": "the_vault:armor_percentile"
+    },
     "velara_tough": {
       "handler": "gear_attribute_scaled",
       "attribute": "the_vault:health_percentile",

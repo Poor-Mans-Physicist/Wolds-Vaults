@@ -4,6 +4,7 @@
       "id": "idona_start_sw",
       "name": "The Sword",
       "type": "root",
+      "effect": "idona_start_sw",
       "cost": 1,
       "enabled": true
     },
@@ -403,6 +404,7 @@
       "id": "idona_start_st",
       "name": "The Staff",
       "type": "root",
+      "effect": "idona_start_st",
       "cost": 1,
       "enabled": true
     },
@@ -658,6 +660,7 @@
       "id": "idona_start_gambler",
       "name": "The Gambler",
       "type": "root",
+      "effect": "idona_start_gambler",
       "cost": 1,
       "enabled": true
     },
@@ -737,6 +740,7 @@
       "id": "idona_start_hoard",
       "name": "The Hoard",
       "type": "root",
+      "effect": "idona_start_hoard",
       "cost": 1,
       "enabled": true
     },
@@ -832,6 +836,7 @@
       "id": "idona_start_reaper",
       "name": "The Reaper",
       "type": "root",
+      "effect": "idona_start_reaper",
       "cost": 1,
       "enabled": true
     },
@@ -903,6 +908,7 @@
       "id": "idona_start_bounty",
       "name": "The Bounty",
       "type": "root",
+      "effect": "idona_start_bounty",
       "cost": 1,
       "enabled": true
     },

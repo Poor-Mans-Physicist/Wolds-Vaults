@@ -482,7 +482,7 @@ hash = "f2c684412f1e839e3044352d66775827c0fc968ccfa787ed8fa7fe48a2753268"
 
 [[files]]
 file = "config/the_vault/card/decks.json"
-hash = "f5621aaef188c6771e24dcd7f3ba531fcb131b6b4e8fa0368052f881771a8744"
+hash = "236800720cc66b15fb9af01c7c7a3d3456dd2fa9a057b2409e1356b5af2a358e"
 
 [[files]]
 file = "config/the_vault/card/implicit_deck_modifiers.json"
@@ -15598,23 +15598,23 @@ hash = "a13bb57932d4a4f97952d8e321d750864e565a0637e2a41f59632768f2695dc9"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_idona.json"
-hash = "bfff769f193e5f4b3aa83bf68f89579c24836a18b32597635b399bf82513441f"
+hash = "79bbc5c3f77d2e80ce2222639ec7e0bd7972e04c17cb6bbc119fc08530d87b1b"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_tenos.json"
-hash = "99a6e35e9560a87796edce29e17e588fbacde0c17609376182135a0b8c5cafa9"
+hash = "823dcb22630adfd272249b8a6c069f6aba5ac83f2a8393fe17ec4f99c1f48450"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_velara.json"
-hash = "5a0647734f948aee96db69962f696c043fc93dc0834e7e2ff233a601a926ad59"
+hash = "2cf83aa3f0a7b2659e1439c7034718c1a421edc49a38a6017bf18cd4b25820d4"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_wendarr.json"
-hash = "d3908f963d9797b9fa3d30f41f4ef7ed2f8179fb2b91c88b74a7c1d5ae0c5383"
+hash = "2f5edd8e5ddbaee6a0e6edbb6a5ecb584f303ee942b192b80f0c99dbb4831881"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_idona.json"
-hash = "1ec0cf130a697f591346d15138e353f7dfe9fd3d72193cb0234cc59216ede527"
+hash = "65cbd15a366dd22edf6317d4647a6b4410f14820b7f86abe1d2ad43df05e1e8a"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_idona_gui_styles.json"
@@ -15622,7 +15622,7 @@ hash = "ab62a3b44119243c016ce3c67bcefe372acbca47db2334ac0570820da0858e42"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_tenos.json"
-hash = "4073bbf566252224643ba2f0ace3b9ed86781b9877a299ee427a6ce8692c7a00"
+hash = "ccbd95e59ecd840221208a44ce51c35fc0f3ce06cbf9902ae7e49c15d40a1e6e"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_tenos_gui_styles.json"
@@ -15630,7 +15630,7 @@ hash = "91253a4290d0f11eca4c36cece2f73f9ecddb473994a41748477b7f0e8fbc760"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_velara.json"
-hash = "14749f4256c1adf49fd06486b126b642d8b4dc5f5a28a6b8a8c02f686198ac00"
+hash = "9e7a2341b7f6d2962b8e51feb2c52fce4d7e730acb2068d808acfe87f32666cf"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_velara_gui_styles.json"
@@ -15638,7 +15638,7 @@ hash = "c5c8d5d47da84777c208bac1cea910f46f0b234efd489a6c3c0a365c9d82a94e"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_wendarr.json"
-hash = "d8396428f2ee6f7a218a86235ed3cfc7c449fb2cc1e99ef485d91fd420a93bc6"
+hash = "7ff33c68e015315208b96552db6defad48549904f88fcf09e5e7c01d5e80fa5e"
 
 [[files]]
 file = "config/the_vault/gods/god_tree_wendarr_gui_styles.json"
@@ -15718,7 +15718,7 @@ hash = "833523f49eb030939684e8fd34a5eccf5aa480e288c286097874f4c593f8bbb0"
 
 [[files]]
 file = "config/the_vault/hyper_objective.json"
-hash = "9a7fd2e7250c74530d1f51f956c47d2b78b3be8d425186212063f6799c97848d"
+hash = "abfe2e537e09762dd5c986d1f0bc4fb316543132a05ca7caace370cdde2807ad"
 
 [[files]]
 file = "config/the_vault/imbuement_altar.json"
@@ -24816,7 +24816,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "fcd4b22499fea6b28759fa3510d6c323eeb36e92b2c96d8690a74c50091f083a"
+hash = "a2860f38464c1113638033edf041719aaf0ae1204a14a765da0b412295c1587d"
 metafile = true
 
 [[files]]

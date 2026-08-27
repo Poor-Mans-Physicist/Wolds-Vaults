@@ -14,6 +14,7 @@
     "ambientPeriodTicks": "Ticks between ambient negative modifier pulls (one per runner per period)",
     "wavePeriodTicks": "Ticks between timed brutal waves during the boss fight",
     "waveMobMin/waveMobMax": "Brutal bosses per wave",
+    "waveAliveCap": "Most wave brutal bosses alive at once; at the cap the wave timer and the health gates both hold",
     "healthGates": "Boss health fractions that each trigger one extra brutal wave (order = persisted gate bits; do not reorder mid-vault)",
     "fightAddPeriodTicks": "Ticks between lone tank/assassin arena adds during the fight",
     "magicMissileCooldownTicks/magicMissileChargeTicks": "Ticks between Magic Missile volleys, and the telegraphed charge-up before each volley fires",
@@ -54,7 +55,8 @@
   "ambientPeriodTicks": 2400,
   "wavePeriodTicks": 400,
   "waveMobMin": 2,
-  "waveMobMax": 4,
+  "waveMobMax": 2,
+  "waveAliveCap": 6,
   "healthGates": [
     0.8,
     0.6,
