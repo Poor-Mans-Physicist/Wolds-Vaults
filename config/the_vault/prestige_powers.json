@@ -891,6 +891,7 @@
           {
             "type": "god_experience_power",
             "experienceIncrease": 0.2,
+            "altarBaseMultiplier": 2.0,
             "learnPointCost": 0,
             "learnKnowledgeCost": 800,
             "regretPointCost": 1,

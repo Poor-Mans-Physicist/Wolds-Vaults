@@ -15594,7 +15594,7 @@ hash = "a2ee48d8ccae2edd65ee682c7efcec0bac1de43e695a177c938780a2231eddfe"
 
 [[files]]
 file = "config/the_vault/gods/god_levels.json"
-hash = "a13bb57932d4a4f97952d8e321d750864e565a0637e2a41f59632768f2695dc9"
+hash = "3de2617f9a97da9e74bc9787fdd3b863ba7e371f768061738291c3f2e9d68d7d"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_idona.json"
@@ -16078,7 +16078,7 @@ hash = "b00a373cf9e181b112a8fe0dbf8cd7b66f7860a84ec8b040d48798508203f66b"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "05d4352a10f9f3dbed63591a2f3a7122bb5afc968bae8615c48e8d15a1e7186e"
+hash = "d4fd3d2ed9bf1f82c9373fe18fbd5ec0a51775dbb5d26f47d927422310f63c16"
 
 [[files]]
 file = "config/the_vault/prestige_powers_OLD.json"
@@ -24816,7 +24816,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "6e3eb30a2fc9eb5e65107f7bac4cc53930b362d0b5674afdfec7ef2f79196ab6"
+hash = "cd2854dfae81cac6bb5e7450abe715153a1ea484c911cafa8cc19f2fb6c3869e"
 metafile = true
 
 [[files]]
