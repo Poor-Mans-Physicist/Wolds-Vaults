@@ -4,6 +4,6 @@ side = "both"
 pin = true
 
 [download]
-url = "https://github.com/Poor-Mans-Physicist/Wolds-Vaults/releases/download/greed-test-10/wolds-vaults-official-mod-0.34.0.jar"
+url = "https://github.com/Poor-Mans-Physicist/Wolds-Vaults/releases/download/greed-test-11/wolds-vaults-official-mod-0.34.0.jar"
 hash-format = "sha256"
-hash = "57ff96d1dab551c870bc3aaa64384daab323da6484c249bce780c9046cf386ef"
+hash = "b51eddf7062e8f549b40d8775a55ef4907377c99d820ac4c6d158fd30df86f2e"
