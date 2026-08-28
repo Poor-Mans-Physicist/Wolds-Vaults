@@ -750,7 +750,7 @@ hash = "1194f5c117a11de2c4d6e8fd6d9b0aaa8d8095c0dbc8dfe60b4c7b9a4085f560"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "2123a4be3d60f617f8a26bfd5d8ff8cbbc0863eb8bb347515cc88c2262657ae9"
+hash = "aff36947cce5003291075983269c7e1bfd4bb527841036d227c62d5a0a8969dd"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
