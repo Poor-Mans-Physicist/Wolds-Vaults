@@ -15602,7 +15602,7 @@ hash = "79bbc5c3f77d2e80ce2222639ec7e0bd7972e04c17cb6bbc119fc08530d87b1b"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_tenos.json"
-hash = "823dcb22630adfd272249b8a6c069f6aba5ac83f2a8393fe17ec4f99c1f48450"
+hash = "2c0b07a97efc5ef51964e984e6e4a169eee04868438a5ef3869fd21a805a8637"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_velara.json"
@@ -24816,7 +24816,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "cd2854dfae81cac6bb5e7450abe715153a1ea484c911cafa8cc19f2fb6c3869e"
+hash = "ca321c346b9c5de9597b1fcc3b6851e79447b391234fa7fd27c621f09cb6a2a4"
 metafile = true
 
 [[files]]

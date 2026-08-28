@@ -174,8 +174,7 @@
     },
     "tenos_barter_expert": {
       "handler": "tenos_barter_expert",
-      "values": [],
-      "rich_palette_chance": 0.5
+      "values": []
     },
     "tenos_nose_for_treasure": {
       "handler": "tenos_nose_for_treasure",
