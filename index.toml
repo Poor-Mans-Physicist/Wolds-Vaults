@@ -16622,11 +16622,11 @@ hash = "a361cb84b870d3c5d6555cd71a6813235b43182cf58b5db78725484f1ce69ccb"
 
 [[files]]
 file = "config/the_vault/void_crucible.json"
-hash = "1f58bc1d17f0f79ca6a414c5f445bf016f4706957e4d134b55af8f6ee4fff011"
+hash = "2b4b2340c079a265b66ed58a0c9143803620056b84ac84e424a195e367d1f87c"
 
 [[files]]
 file = "config/the_vault/void_crucible/aquarium.json"
-hash = "677a7445b12b38e38b10e811c170c69711bbe0b437e3ff818d88d3b210043441"
+hash = "ae2cc381032e6e484d133df3772ac19da4558aa433ea82cbafc0f750f7437a84"
 
 [[files]]
 file = "config/the_vault/void_crucible/arcade.json"
@@ -16714,7 +16714,7 @@ hash = "98361b0b5c75bc4be60e60bb45c27ae94f7c5cc4185ca51eeb5e610a701fdb7a"
 
 [[files]]
 file = "config/the_vault/void_crucible/misc.json"
-hash = "09511694bf15861208ea5de47e48db9fd5dced9601f59cc26c86af6b8ba97fe1"
+hash = "ec5808b9b71c7b94a5b74d70b3fb236ab90fb8ce76b4e8ffcfd1ac7ab17ee225"
 
 [[files]]
 file = "config/the_vault/void_crucible/mushroom.json"
@@ -16753,6 +16753,10 @@ file = "config/the_vault/void_crucible/treasure_room.json"
 hash = "7a5bd43fd3a8645c18fe00116d85c70e67e99a151b0eb7a069a63d1373aa58e5"
 
 [[files]]
+file = "config/the_vault/void_crucible/tropicraft.json"
+hash = "ece2bbeff2aad5aa1eacad1097c22e67898b0f9fe53cd0d24203cb9308d24701"
+
+[[files]]
 file = "config/the_vault/void_crucible/trove.json"
 hash = "2bf4e68fcf59906ed74d27b3fcd3088ec088c094af34a6a4f44b3003531e099c"
 
@@ -16779,6 +16783,14 @@ hash = "36b8a2efcac8437c7898cff894b97a621af5a2e776afcba6d4c6d2ce7b09e13b"
 [[files]]
 file = "config/the_vault/void_crucible/wold_graveyard1.json"
 hash = "66460e1f8721a1d599303527639face49d55be848d7a215b30776a2033c8116a"
+
+[[files]]
+file = "config/the_vault/void_crucible/woldian_garden.json"
+hash = "743a4d1905c5fa8ea13f7dad51a68b88fc2889596f60cbb5f71192471e7ba2bb"
+
+[[files]]
+file = "config/the_vault/void_crucible/wolds_dinner.json"
+hash = "18aee2bfa4d0ed788b5ddcffebf85835667c77817a564ddb32d28cf42905fe9d"
 
 [[files]]
 file = "config/the_vault/void_crucible/x_mark.json"
