@@ -22257,6 +22257,10 @@ file = "kubejs/server_scripts/vh_compat/creative/recipes.js"
 hash = "7e54e82d5d5a733bb32356268e034dec2538bc45a621f2584f0dbee3e4293951"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/curvy_pipes/recipes.js"
+hash = "65ab3fc6d944ff086318c74b2c8ae72a695d29e6b648055a633f212f2cfaba1d"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/davespotioneering/recipes.js"
 hash = "d357013d2bd7022b2e19ef433b78c7fcd8266d7faaad11eea9540875dd1f61e1"
 
@@ -23239,6 +23243,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "96e0915c74e1ec1f137208d4d247d307b1aaad8a9aa2cbaafb3730d4495d03a4"
+metafile = true
+
+[[files]]
+file = "mods/curvy-pipes.pw.toml"
+hash = "d95bbd90a2f2ed94e141ddd63fb85442719ac2c2ee645b60bdf10246077ef1be"
 metafile = true
 
 [[files]]
