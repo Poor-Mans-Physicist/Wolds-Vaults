@@ -35,7 +35,7 @@
     },
     "3": {
       "baseGreedCoins": 3,
-      "mobHealthDamageBonus": 60,
+      "mobHealthDamageBonus": 120,
       "crateLootBonus": 5,
       "greedCrateLootTier": 1,
       "chestRollsBonus": 0,
@@ -45,7 +45,7 @@
     },
     "4": {
       "baseGreedCoins": 4,
-      "mobHealthDamageBonus": 90,
+      "mobHealthDamageBonus": 180,
       "crateLootBonus": 10,
       "greedCrateLootTier": 1,
       "chestRollsBonus": 0,
@@ -55,7 +55,7 @@
     },
     "5": {
       "baseGreedCoins": 5,
-      "mobHealthDamageBonus": 125,
+      "mobHealthDamageBonus": 250,
       "crateLootBonus": 15,
       "greedCrateLootTier": 1,
       "chestRollsBonus": 10,
@@ -65,7 +65,7 @@
     },
     "6": {
       "baseGreedCoins": 5,
-      "mobHealthDamageBonus": 150,
+      "mobHealthDamageBonus": 300,
       "crateLootBonus": 20,
       "greedCrateLootTier": 2,
       "chestRollsBonus": 10,
@@ -75,7 +75,7 @@
     },
     "7": {
       "baseGreedCoins": 6,
-      "mobHealthDamageBonus": 225,
+      "mobHealthDamageBonus": 675,
       "crateLootBonus": 25,
       "greedCrateLootTier": 2,
       "chestRollsBonus": 15,
@@ -85,7 +85,7 @@
     },
     "8": {
       "baseGreedCoins": 7,
-      "mobHealthDamageBonus": 300,
+      "mobHealthDamageBonus": 900,
       "crateLootBonus": 25,
       "greedCrateLootTier": 3,
       "chestRollsBonus": 15,
@@ -95,7 +95,7 @@
     },
     "9": {
       "baseGreedCoins": 8,
-      "mobHealthDamageBonus": 400,
+      "mobHealthDamageBonus": 1200,
       "crateLootBonus": 30,
       "greedCrateLootTier": 4,
       "chestRollsBonus": 20,
@@ -105,7 +105,7 @@
     },
     "10": {
       "baseGreedCoins": 9,
-      "mobHealthDamageBonus": 550,
+      "mobHealthDamageBonus": 1650,
       "crateLootBonus": 35,
       "greedCrateLootTier": 4,
       "chestRollsBonus": 20,
@@ -115,7 +115,7 @@
     },
     "11": {
       "baseGreedCoins": 10,
-      "mobHealthDamageBonus": 700,
+      "mobHealthDamageBonus": 2100,
       "crateLootBonus": 35,
       "greedCrateLootTier": 4,
       "chestRollsBonus": 25,
@@ -125,7 +125,7 @@
     },
     "12": {
       "baseGreedCoins": 11,
-      "mobHealthDamageBonus": 950,
+      "mobHealthDamageBonus": 2850,
       "crateLootBonus": 40,
       "greedCrateLootTier": 5,
       "chestRollsBonus": 25,
@@ -135,7 +135,7 @@
     },
     "13": {
       "baseGreedCoins": 12,
-      "mobHealthDamageBonus": 1250,
+      "mobHealthDamageBonus": 6250,
       "crateLootBonus": 40,
       "greedCrateLootTier": 5,
       "chestRollsBonus": 30,
@@ -145,7 +145,7 @@
     },
     "14": {
       "baseGreedCoins": 13,
-      "mobHealthDamageBonus": 1600,
+      "mobHealthDamageBonus": 8000,
       "crateLootBonus": 45,
       "greedCrateLootTier": 6,
       "chestRollsBonus": 30,
@@ -155,7 +155,7 @@
     },
     "15": {
       "baseGreedCoins": 14,
-      "mobHealthDamageBonus": 2000,
+      "mobHealthDamageBonus": 10000,
       "crateLootBonus": 45,
       "greedCrateLootTier": 6,
       "chestRollsBonus": 35,
@@ -165,7 +165,7 @@
     },
     "16": {
       "baseGreedCoins": 15,
-      "mobHealthDamageBonus": 2500,
+      "mobHealthDamageBonus": 12500,
       "crateLootBonus": 50,
       "greedCrateLootTier": 7,
       "chestRollsBonus": 40,

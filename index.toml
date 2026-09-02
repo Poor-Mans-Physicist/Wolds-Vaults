@@ -15650,7 +15650,7 @@ hash = "e0035f15bf70f711b47333c68e8133717bcad09c2a4dc75099122c0d7ae3da38"
 
 [[files]]
 file = "config/the_vault/gods/greed_medallions.json"
-hash = "3d21c7f5b0519fe1cee29f73642add87a1686c3a1000fefdd3334bf99c5e402b"
+hash = "33784da96e7eb6e02ea1daa5c9a9fb68e242491b850b080dd1bc9993584e3383"
 
 [[files]]
 file = "config/the_vault/gods/greed_ranks.json"
@@ -24828,7 +24828,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "ef515d97f06aacf2cf0e65196bbccce5d08f604dbe808c0d45ca884956401081"
+hash = "59c93ff889d0b41e38c6b4b0f8d1fed076163100b20cf2edacbb2e1195e73981"
 metafile = true
 
 [[files]]
