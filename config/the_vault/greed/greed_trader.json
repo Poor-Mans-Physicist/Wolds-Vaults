@@ -1993,12 +1993,10 @@
     ],
     "ancient_uniques": [
       {
+        "type": "ancient_unique",
         "weight": 10,
         "minGreedTier": 0,
-        "maxGreedTier": -1,
-        "itemStack": {
-          "item": "woldsvaults:unidentified_ancient_unique"
-        }
+        "maxGreedTier": -1
       }
     ]
   },

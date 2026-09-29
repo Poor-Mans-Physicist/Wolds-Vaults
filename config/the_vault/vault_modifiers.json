@@ -60,6 +60,76 @@
             "icon": "the_vault:gui/modifiers/sigil_legend"
           }
         }
+      },
+      "the_vault:sigil_ancient_70": {
+        "properties": {},
+        "display": {
+          "name": "Ancient",
+          "color": "#FFA500",
+          "description": "This vault has been inscribed with an Ancient Sigil",
+          "descriptionFormatted": "This vault has been inscribed with an Ancient Sigil",
+          "icon": "the_vault:gui/modifiers/sigil_legend"
+        }
+      },
+      "the_vault:sigil_ancient_75": {
+        "properties": {},
+        "display": {
+          "name": "Ancient",
+          "color": "#FFA500",
+          "description": "This vault has been inscribed with an Ancient Sigil",
+          "descriptionFormatted": "This vault has been inscribed with an Ancient Sigil",
+          "icon": "the_vault:gui/modifiers/sigil_legend"
+        }
+      },
+      "the_vault:sigil_ancient_80": {
+        "properties": {},
+        "display": {
+          "name": "Ancient",
+          "color": "#FFA500",
+          "description": "This vault has been inscribed with an Ancient Sigil",
+          "descriptionFormatted": "This vault has been inscribed with an Ancient Sigil",
+          "icon": "the_vault:gui/modifiers/sigil_legend"
+        }
+      },
+      "the_vault:sigil_ancient_85": {
+        "properties": {},
+        "display": {
+          "name": "Ancient",
+          "color": "#FFA500",
+          "description": "This vault has been inscribed with an Ancient Sigil",
+          "descriptionFormatted": "This vault has been inscribed with an Ancient Sigil",
+          "icon": "the_vault:gui/modifiers/sigil_legend"
+        }
+      },
+      "the_vault:sigil_ancient_90": {
+        "properties": {},
+        "display": {
+          "name": "Ancient",
+          "color": "#FFA500",
+          "description": "This vault has been inscribed with an Ancient Sigil",
+          "descriptionFormatted": "This vault has been inscribed with an Ancient Sigil",
+          "icon": "the_vault:gui/modifiers/sigil_legend"
+        }
+      },
+      "the_vault:sigil_ancient_95": {
+        "properties": {},
+        "display": {
+          "name": "Ancient",
+          "color": "#FFA500",
+          "description": "This vault has been inscribed with an Ancient Sigil",
+          "descriptionFormatted": "This vault has been inscribed with an Ancient Sigil",
+          "icon": "the_vault:gui/modifiers/sigil_legend"
+        }
+      },
+      "the_vault:sigil_ancient_100": {
+        "properties": {},
+        "display": {
+          "name": "Ancient",
+          "color": "#FFA500",
+          "description": "This vault has been inscribed with an Ancient Sigil",
+          "descriptionFormatted": "This vault has been inscribed with an Ancient Sigil",
+          "icon": "the_vault:gui/modifiers/sigil_legend"
+        }
       }
     },
     "the_vault:modifier_type/blacklist_removal": {
@@ -2530,7 +2600,7 @@
       "the_vault:glued_mobs": {
         "properties": {
           "type": "speed_additive_percentile",
-          "amount": -0.90,
+          "amount": -0.9,
           "attributeStackingStrategy": "SET"
         },
         "display": {
@@ -3262,10 +3332,10 @@
       "the_vault:mana_void": {
         "properties": {
           "type": "mana_max_additive_percentile",
-          "amount": 0.40,
+          "amount": 0.4,
           "attributeStackingStrategy": "STACK",
           "reputation": {
-            "addendPerLevel": 0.00
+            "addendPerLevel": 0.0
           }
         },
         "display": {
@@ -3364,7 +3434,7 @@
       }
     },
     "the_vault:modifier_type/player_effect": {
-       "woldsvaults:lights_out": {
+      "woldsvaults:lights_out": {
         "properties": {
           "effect": "wildbackport:darkness",
           "effectAmplifier": 0
@@ -4443,7 +4513,7 @@
       "the_vault:grievous_wounds": {
         "properties": {
           "stat": "healing_effectiveness",
-          "addend": -0.20
+          "addend": -0.2
         },
         "display": {
           "name": "Grievous Wounds",
@@ -4844,7 +4914,7 @@
       },
       "the_vault:xp_gain": {
         "properties": {
-          "addend": 0.20
+          "addend": 0.2
         },
         "display": {
           "name": "Accustomed",
@@ -4856,7 +4926,7 @@
       },
       "the_vault:refined_experience": {
         "properties": {
-          "addend": 0.50
+          "addend": 0.5
         },
         "display": {
           "name": "Refined Experience",
@@ -8907,7 +8977,7 @@
         }
       }
     },
-     "woldsvaults:modifier_type/brazier_pool_modification": {
+    "woldsvaults:modifier_type/brazier_pool_modification": {
       "woldsvaults:all_bad_haunted_braziers": {
         "properties": {
           "id": "woldsvaults:all_bad_haunted_braziers"
@@ -9032,5 +9102,4 @@
       }
     }
   }
-  
 }

@@ -8,7 +8,7 @@
     "chestRollsBonus": "Percent added to the roll count of tiered chests. Barrels and treasure chests are not tiered and are unaffected",
     "trapDisarmPenalty": "Percent subtracted from trap disarming. A magnitude, so 33 means -33%",
     "mobSpawnBonus": "Percent added to the sustained vault mob population ceiling",
-    "objectiveDifficultyBonus": "Percent added to objective difficulty. Reaches brutal boss pillars and bosses only, the one numeric difficulty axis in the game",
+    "objectiveDifficultyBonus": "Percent added to objective difficulty: multiplies into the vault difficulty D = (1 + sigil difficulty) x (1 + this / 100), which every objective scales from at configure time (objective_difficulty.json)",
     "gates": "The medallion rank each behaviour switches on at. Vault Champion behaviours are tabled but not implemented",
     "spawn": "Assassin spawn chance per attempt is base * (1 + rankChanceStep * (rank - 1)), decaying by decayFactor per spawn and recovering over recoveryTicks"
   },
@@ -183,7 +183,7 @@
     "vaultChampionEnraged": 16
   },
   "spawn": {
-    "hordeBaseChance": 2.0E-4,
+    "hordeBaseChance": 0.0002,
     "eliteBaseChance": 0.01,
     "rankChanceStep": 0.15,
     "decayFactor": 0.5,
