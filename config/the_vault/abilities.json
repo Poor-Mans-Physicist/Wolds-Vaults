@@ -29530,8 +29530,12 @@
                 "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 20,
-                "damagePerBolt": 12,
-                "unlockLevel": 0
+                "damagePerBolt": 17,
+                "unlockLevel": 0,
+                "percentAttackDamageDealt": 0.7,
+                "splinterChance": 0.53,
+                "splinterDamageMultiplier": 0.5,
+                "splinterRange": 4
               },
               {
                 "type": "ice_bolt_arrow",

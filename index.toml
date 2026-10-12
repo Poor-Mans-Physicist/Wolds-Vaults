@@ -302,7 +302,7 @@ hash = "c086a85a8321d8cc2cc6ed06a0968b11f0d8e4d3c3b97b5c969e8a0ef4d1f8c3"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "358fb1622e05f267f58333078841c7fac5186e12ef7ac1dc8710296af00a9bc8"
+hash = "5c4460d1a25f6afa91d431e34afbf96de748808bafb4698b827d423fa6befacd"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -922,7 +922,7 @@ hash = "dcdeed1ec34f80a8ebfad487fa5a2fbb882af19c856c0c5d80934af124428f71"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "00c6b3c722f46bc7080733cd10b0791e425500e51af34990c760f100024c8bfb"
+hash = "65b8fd440e1a92c18df5dac4d6911b2e9fe3fb49371cb6996c49afc08a2eb457"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -16038,7 +16038,7 @@ hash = "de1cd930752c45c8ab81c1bf7776c128b07d36edf4704a4682ebb44af74933f6"
 
 [[files]]
 file = "config/the_vault/menu_player_stat_description.json"
-hash = "260e7c31d75799ca41813fb5157356d3e304c4ba4e3a8b0babddb4a6575e650d"
+hash = "1bcd50b9fd3ceb2519f274e0bac53016648577b7a75452bc0f8caff9756c3a48"
 
 [[files]]
 file = "config/the_vault/mod_box.json"
@@ -16382,7 +16382,7 @@ hash = "4994a9c00756cb95d500197c069519c49ab97f5464b4de1fa451a3aba0160537"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "12b0574c38188572d4cfc17fc16bbe9b13f97574b340df44e23aa58e40bd491b"
+hash = "53c63ff20a44a88369ab55aacbcb54a1085a7d2d5bde67cfe3355b6edf0441f1"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
