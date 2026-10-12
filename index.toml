@@ -482,7 +482,7 @@ hash = "f2c684412f1e839e3044352d66775827c0fc968ccfa787ed8fa7fe48a2753268"
 
 [[files]]
 file = "config/the_vault/card/decks.json"
-hash = "236800720cc66b15fb9af01c7c7a3d3456dd2fa9a057b2409e1356b5af2a358e"
+hash = "f5621aaef188c6771e24dcd7f3ba531fcb131b6b4e8fa0368052f881771a8744"
 
 [[files]]
 file = "config/the_vault/card/implicit_deck_modifiers.json"
