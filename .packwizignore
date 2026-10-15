@@ -3,5 +3,6 @@
 # named "library" under config/ MUST stay indexed.
 /library/
 /redesign/
+/research/
 /CLAUDE.md
 /.claude/
