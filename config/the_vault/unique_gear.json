@@ -260,7 +260,8 @@
         "PREFIX": [
           "the_vault:unique_storm_arrow_level",
           "the_vault:storm_aoe_reduce",
-          "the_vault:storm_cooldown"
+          "the_vault:storm_cooldown",
+          "the_vault:u_storm_tracking"
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen"
@@ -295,7 +296,8 @@
         ],
         "PREFIX": [
           "the_vault:mod_jav_scatter",
-          "the_vault:mod_damage_increase"
+          "the_vault:mod_damage_increase",
+          "the_vault:u_javelin_multi_hit"
         ],
         "SUFFIX": [
           "the_vault:mod_cooldown_reduction",
@@ -988,7 +990,7 @@
       "weight": 1
     },
     "the_vault:inferno_reach": {
-      "name": "Inferno's Reach",
+      "name": "Steel Inferno",
       "item": "the_vault:wand",
       "models": [
         {
@@ -1016,7 +1018,7 @@
           "the_vault:mod_added_ability_level_fireball"
         ],
         "SUFFIX": [
-          "the_vault:fireball_aoe_increase",
+          "the_vault:u_steel_inferno",
           "the_vault:mod_cooldown_reduction",
           "the_vault:unique_area_of_effect"
         ]
