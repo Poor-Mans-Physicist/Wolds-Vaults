@@ -366,8 +366,8 @@
     },
     "empyreal": {
       "modifierValue": {
-        "min": 1.0,
-        "max": 1.0,
+        "min": 0.2,
+        "max": 0.3,
         "type": "uniform"
       },
       "requiredGroups": [
@@ -377,14 +377,14 @@
       "requiredColors": [],
       "slotRoll": {
         "min": 2,
-        "max": 5,
+        "max": 2,
         "type": "uniform"
       },
       "slotRolls": {
         "lesser": {
           "value": {
-            "min": 0.8,
-            "max": 0.8,
+            "min": 0.2,
+            "max": 0.2,
             "type": "uniform"
           },
           "requiredGroups": [
@@ -400,9 +400,29 @@
           "modelId": "the_vault:deck_cores/lesser_empyreal_deck_core#inventory",
           "name": "Lesser Empyreal Core",
           "colour": 13618375
+        },
+        "greater": {
+          "value": {
+            "min": 0.3,
+            "max": 0.4,
+            "type": "uniform"
+          },
+          "requiredGroups": [
+            "Stat",
+            "Evolution"
+          ],
+          "requiredColors": [],
+          "slotRoll": {
+            "min": 3,
+            "max": 3,
+            "type": "uniform"
+          },
+          "modelId": "the_vault:deck_cores/greater_empyreal_deck_core#inventory",
+          "name": "Greater Empyreal Core",
+          "colour": 16769382
         }
       },
-      "type": "slot",
+      "type": "slot_multiplier",
       "modelId": "the_vault:deck_cores/empyreal_deck_core#inventory",
       "name": "Empyreal Core",
       "colour": 13618375

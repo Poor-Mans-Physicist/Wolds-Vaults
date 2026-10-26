@@ -306,7 +306,7 @@ hash = "381bde833335ad35304df484e57ca747f35231a041c74309be56a124e721f124"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "a993187b3747e331d6cf36660b1bfc9db9925253faa23305adcbd4c9e1b22b55"
+hash = "51541d7e09640fd91b2461e4cf0645f4bbf44a5212facb24543edda693da7235"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -478,7 +478,7 @@ hash = "adf69937995a3b8b3e519ded3b23bd4bbb3dadbf7317f5367c9c5c18dc39a324"
 
 [[files]]
 file = "config/the_vault/card/deck_modifiers.json"
-hash = "7daf035c4c9774b36bbedfef6f2bf17d07eaa0e78f3fd308ef12f32fac406024"
+hash = "19a7ea348c878a108d4185248e693e700523f7577b696583a78dfb9a5083f300"
 
 [[files]]
 file = "config/the_vault/card/decks.json"
@@ -490,7 +490,7 @@ hash = "c6b26fb494bb755b603f5a33d864cff2b3c6ea1943395c34b5bcf2ca9d0cadd5"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "7750724a1cd24171326592eb9cbfbbd1afa3c9802f8cd32d2d462231cd937e7e"
+hash = "b857c15469bdfea9f2cffade0471fa54f6f25edbd7191125244f7fccd68b8ad7"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -16078,7 +16078,7 @@ hash = "de1cd930752c45c8ab81c1bf7776c128b07d36edf4704a4682ebb44af74933f6"
 
 [[files]]
 file = "config/the_vault/menu_player_stat_description.json"
-hash = "1bcd50b9fd3ceb2519f274e0bac53016648577b7a75452bc0f8caff9756c3a48"
+hash = "7e41ff300005cee665c3ce293ad5f6a4867c43fe7251ec8780c1e6b050423fb2"
 
 [[files]]
 file = "config/the_vault/mod_box.json"

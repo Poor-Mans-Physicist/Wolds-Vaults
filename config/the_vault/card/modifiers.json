@@ -1607,6 +1607,52 @@
       ],
       "maxTier": 5
     },
+    "thorns_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Scaling Thorns Card"
+      },
+      "model": "woldsvaults:card/icon/thorns_percent#inventory",
+      "groups": [
+        "Offensive",
+        "Defensive",
+        "Stat"
+      ],
+      "attribute": "the_vault:thorns_damage_flat_percentile",
+      "pool": [
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1.0,
+          "tier": 1
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1.0,
+          "tier": 2
+        },
+        {
+          "min": 0.015,
+          "max": 0.015,
+          "step": 1.0,
+          "tier": 3
+        },
+        {
+          "min": 0.02,
+          "max": 0.02,
+          "step": 1.0,
+          "tier": 4
+        },
+        {
+          "min": 0.025,
+          "max": 0.025,
+          "step": 1.0,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
     "thorns_flat_shiny": {
       "type": "gear",
       "name": {
@@ -1671,6 +1717,29 @@
         {
           "min": 8.0,
           "max": 8.0,
+          "step": 0.0,
+          "tier": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "deluxe_thorns_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Deluxe Scaling Thorns Card"
+      },
+      "model": "woldsvaults:card/icon/thorns_percent#inventory",
+      "groups": [
+        "Offensive",
+        "Defensive",
+        "Stat",
+        "Deluxe"
+      ],
+      "attribute": "the_vault:thorns_damage_flat_percentile",
+      "pool": [
+        {
+          "min": 0.035,
+          "max": 0.035,
           "step": 0.0,
           "tier": 1
         }
@@ -3344,6 +3413,51 @@
         {
           "min": 2.5,
           "max": 2.5,
+          "step": 1.0,
+          "tier": 5
+        }
+      ],
+      "maxTier": 5
+    },
+    "amp_thorns_percent": {
+      "type": "gear",
+      "name": {
+        "text": "Evolving Scaling Thorns Card"
+      },
+      "model": "woldsvaults:card/icon/thorns_percent#inventory",
+      "groups": [
+        "Offensive",
+        "Evolution"
+      ],
+      "attribute": "the_vault:thorns_damage_flat_percentile",
+      "pool": [
+        {
+          "min": 0.003,
+          "max": 0.003,
+          "step": 1.0,
+          "tier": 1
+        },
+        {
+          "min": 0.005,
+          "max": 0.005,
+          "step": 1.0,
+          "tier": 2
+        },
+        {
+          "min": 0.007,
+          "max": 0.007,
+          "step": 1.0,
+          "tier": 3
+        },
+        {
+          "min": 0.01,
+          "max": 0.01,
+          "step": 1.0,
+          "tier": 4
+        },
+        {
+          "min": 0.013,
+          "max": 0.013,
           "step": 1.0,
           "tier": 5
         }
@@ -12387,6 +12501,10 @@
       {
         "value": "copiously",
         "weight": 1.0
+      },
+      {
+        "value": "thorns_percent",
+        "weight": 1.0
       }
     ],
     "shiny": [
@@ -12526,6 +12644,10 @@
       },
       {
         "value": "deluxe_copiously",
+        "weight": 1.0
+      },
+      {
+        "value": "deluxe_thorns_percent",
         "weight": 1.0
       }
     ],
@@ -13322,6 +13444,10 @@
       },
       {
         "value": "amp_area_of_effect",
+        "weight": 1.0
+      },
+      {
+        "value": "amp_thorns_percent",
         "weight": 1.0
       }
     ],
