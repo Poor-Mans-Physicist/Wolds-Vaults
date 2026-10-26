@@ -15690,15 +15690,15 @@ hash = "3de2617f9a97da9e74bc9787fdd3b863ba7e371f768061738291c3f2e9d68d7d"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_idona.json"
-hash = "79bbc5c3f77d2e80ce2222639ec7e0bd7972e04c17cb6bbc119fc08530d87b1b"
+hash = "21035147f6a5885848157c48db24cb41e2bbf422b6562f11a28111c99a50b3b1"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_tenos.json"
-hash = "2c0b07a97efc5ef51964e984e6e4a169eee04868438a5ef3869fd21a805a8637"
+hash = "1e57c87ccba098717126b384d39c525f31d8fb1666053874c7e3849e41dadfb0"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_velara.json"
-hash = "2cf83aa3f0a7b2659e1439c7034718c1a421edc49a38a6017bf18cd4b25820d4"
+hash = "3c145f95ae2820a7c24e7cfafbf9e38fc1d991eb1c10316abbe214db7d6b0aaf"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_wendarr.json"

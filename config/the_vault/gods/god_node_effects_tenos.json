@@ -229,7 +229,7 @@
     "tenos_unstoppable_greed": {
       "handler": "tenos_unstoppable_greed",
       "values": [],
-      "ratio": 0.1
+      "ratio": 0.05
     },
     "tenos_wealthy_patron": {
       "handler": "tenos_wealthy_patron",
