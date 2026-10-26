@@ -957,6 +957,10 @@ file = "config/the_vault/gear_modifiers/wand_mythic.json"
 hash = "94942d1807cf16b6902b201552eff811e1d5c801d48dc33059eeb35095820690"
 
 [[files]]
+file = "config/the_vault/gear_sets.json"
+hash = "18681395d00e4c5d276d834e7da3fa55b9bbfe6b3b132ccc58431d2b8d477d19"
+
+[[files]]
 file = "config/the_vault/gear_workbench/axe.json"
 hash = "1fa968ca9d74a1b0b0e45133c6f6a3894c45113c44478345c4201f16e4d37daf"
 
@@ -15806,7 +15810,7 @@ hash = "833523f49eb030939684e8fd34a5eccf5aa480e288c286097874f4c593f8bbb0"
 
 [[files]]
 file = "config/the_vault/hyper_objective.json"
-hash = "abfe2e537e09762dd5c986d1f0bc4fb316543132a05ca7caace370cdde2807ad"
+hash = "9aa6a9b385d09bb6cdfba5e573a52f29d5d23bcce05790713f974ff4949b7a25"
 
 [[files]]
 file = "config/the_vault/imbuement_altar.json"
@@ -26917,4 +26921,3 @@ hash = "3cec0883be667bc6c612523290e842a77f8773a2b5374f283ee497826a8606be"
 [[files]]
 file = "shell.nix"
 hash = "f77ec5b795e38e6b013cebd2ac1ca4e4bd0f04dd8a4cfb9bb2d194b5417176db"
-
