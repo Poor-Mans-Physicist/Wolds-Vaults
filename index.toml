@@ -15698,7 +15698,7 @@ hash = "1e57c87ccba098717126b384d39c525f31d8fb1666053874c7e3849e41dadfb0"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_velara.json"
-hash = "3c145f95ae2820a7c24e7cfafbf9e38fc1d991eb1c10316abbe214db7d6b0aaf"
+hash = "3d869286212ce0e9d12310454643ddb8ef0f5243fad21c325212c03815a51d75"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_wendarr.json"

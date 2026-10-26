@@ -202,7 +202,7 @@
       "handler": "velara_the_stonewall",
       "values": [],
       "speed_multiplier": 0.4,
-      "armor_multiplier": 1.5
+      "armor_multiplier": 1.25
     },
     "velara_cactus": {
       "handler": "velara_cactus",
