@@ -693,6 +693,18 @@ file = "config/the_vault/expertises_gui_styles.json"
 hash = "9577fbec6413cdbb141c09c4df1132d54fc7d11cab966b7bab2466b9f517161e"
 
 [[files]]
+file = "config/the_vault/extraction_objective.json"
+hash = "16a5f4314e2ab8990f149631c4fca8a5c42fcb4d5a060d19337840efaaca5f8e"
+
+[[files]]
+file = "config/the_vault/extractor_costs.json"
+hash = "086da15c90c79905aa62374b994632640f3b8452237c9e849d6c63c92f4c9d77"
+
+[[files]]
+file = "config/the_vault/extractor_parts.json"
+hash = "fe41693ad0691d7ba36609707689ab46e3aa9db3d4c0b4f9c057173d222515bd"
+
+[[files]]
 file = "config/the_vault/eyesore.json"
 hash = "45443567e2ed073120d5286f35e5c5a00a3b7253dd89581aef8349c6c9a0c2cc"
 
@@ -854,31 +866,31 @@ hash = "18cc3ef797e16930ce5b78e8fe6dbf701057a18edccb86875b9c663fadcddcfc"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map.json"
-hash = "1fa5581dac8c2142cb30e4fca4a2f081c8d0ed97188207da912a265ec0fdb15a"
+hash = "c4b924e5a5d3a5c05a477b4de2e89e8a99bb719cd81e63f1670aebfe4ced3c8e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_1.json"
-hash = "2c453d2e30254fa388a8040c7d99a0b5c3c70d7fa03601b6939fdee8945fa274"
+hash = "1ba0e0f110ec4ea802f03840d00c4b4f2551599c7b07ef09ed69e617fb0876a0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_2.json"
-hash = "8b9788a871c00a828498f360c1130804da91bffd69d650e98270b89bf8d559b3"
+hash = "605b37895db7d8e713a41604fae4df2df6f0e9d7bee60e35221ba36464c93de1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_3.json"
-hash = "9bf8986976cf0359360e74b8812d950d072ab7fcbe537628fd6451d898ecc551"
+hash = "3fd61eb115ae484abf428ecb513d155939f6e1118ab8676642ef8499a859832b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_4.json"
-hash = "311adcc928e1bd3075df079d698b52c7623a9d123741179531950f4cbcf0c317"
+hash = "ab697c4122fd1384cef32cece755c59871e32410fdb196e93f9fe29919c53a43"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_5.json"
-hash = "7c871a89c485beda7f39e3d03678ff59769c52ab8a7976d68430d8e16bc0977d"
+hash = "1d301759240d24ab22e58cecd0a248af5d183dd8ec44377cf8260158295d95e7"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_mythic.json"
-hash = "d36088e033b2c0fbb701a0f2aaae58bfb868d6129cf1b50a300f0a67c7a3da34"
+hash = "7ea10013c6035a3b9d6fd1bacedce7af1947bf2eb6233f70587ed628d7bd1499"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/plushie.json"
@@ -2651,6 +2663,22 @@ hash = "dc6126564d29b04a909d405c453554aeb2e6f63f4c9d01be0df0f5c16915fa07"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/ornate_chest_placeholder.json"
 hash = "0e3f2adcfaf093d8fd1bac5b12720716196f95500fa19354b64c49f03966daee"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/extraction/idona.json"
+hash = "325e85c440b6d85d3e8a6e35f605bc9eb29d23f20ac402bcae22667fb95e9b69"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/extraction/tenos.json"
+hash = "36bf4241e417ae607027e4df0d1abb9aa924afde41c32c2ba77bb31d8afc925f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/extraction/velara.json"
+hash = "0ebf590b19fb45415687cce77bd69db6745f6bd31ed46d66a7c10d723ef28346"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/extraction/wendarr.json"
+hash = "edb5df522dbcb05c4b2c402bc0db8bb1e5fec5b2d77d7ee6b7c49e7e1b945622"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/base.json"
@@ -10901,6 +10929,10 @@ file = "config/the_vault/gen/1.0/structures/vault/rooms/special/boss2.nbt"
 hash = "a72fffc0f3979f12775ce817b9fc0f35a841d8b2a39601e5855b537bfda44f23"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/rooms/special/extraction1.nbt"
+hash = "b949db63f1435c2d3b44c419e6fad607ec6e25b33905a3e1903c21b9d404873e"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/special/lost_void.nbt"
 hash = "3c2ecb5b5be0dad595f567b3264249cde3483dac5aabfb8fd2dba5ccdf489e6d"
 
@@ -14445,6 +14477,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/rooms/special/boss.json"
 hash = "4ecb114d34753dde2acbc3f470dbc762baa74c53f84e0f4ee62df5e26083f19a"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/special/extraction.json"
+hash = "336b3b298f5d3bab18cb94d8dcb648ed657e540016ccb1abb9626db8ab310b90"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/special/lost_void.json"
 hash = "921222f7c65fbb3d00637cd5ce7169ec50ac7803764f06d0fea56ab351e4c835"
 
@@ -15610,7 +15646,7 @@ hash = "37ca29305bb69c31f7d883421cbec8af116b4da6a82a009b93179ef4174a8f3c"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "f52c5b174e130477cd87896d0f99505098d9fe72ef80477a35ca7e4d18b13124"
+hash = "ad3a551bb9e934b95b519f19d10f3904fd183c3f013b31591b5f21bca822da01"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -15622,11 +15658,11 @@ hash = "98b5bd2810aca02159116cc4ea14586fadfcc9d1d40f298b1e08df439d701dda"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "98d72553144c5959c50988f8f8ef32ec3c9c12560aa317f5a2cf0d3e6bbf8bab"
+hash = "f8a73bba63199aff05ca6a5db88f4aba7e42bb12a6a077cd6ce7e85d1197a08f"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "256ce5e05dc50604eb7f1bc96106a7ed55ed60ccd0c897d507a1789f583d7bd6"
+hash = "adc408e15936da6e922e7e4193c411c44fb6dd9c5beb4d4a8717c976f98bdaf5"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -16022,7 +16058,7 @@ hash = "fe4877df2b1edd1d2023745d528ba45c55ce6cab9a90f5e74c27d503e35c362f"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
-hash = "df96ae8ac8af1ab929a1f6b4acbf7d479bda8b4dbceb592f0542f75d2527dea5"
+hash = "077a6c2b1b9825cb356668134476ccf59a3f1e0aa7b7e7af9a006c71690766bc"
 
 [[files]]
 file = "config/the_vault/magnet_table.json"
@@ -16630,7 +16666,7 @@ hash = "f1cfcc0a91a69e3c26cfb10d48b832d6e20476db04d0b8f9c94be48dc6d8956c"
 
 [[files]]
 file = "config/the_vault/vault_map_icons.json"
-hash = "60add845e875661acc35a27c96b43a1c51eafe379ab0ab4adabee699d128f723"
+hash = "29b7c26b64da0bcbca570c5be1750d99e2bafe7d224144cc6271e97180c479e2"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
@@ -26881,3 +26917,4 @@ hash = "3cec0883be667bc6c612523290e842a77f8773a2b5374f283ee497826a8606be"
 [[files]]
 file = "shell.nix"
 hash = "f77ec5b795e38e6b013cebd2ac1ca4e4bd0f04dd8a4cfb9bb2d194b5417176db"
+
