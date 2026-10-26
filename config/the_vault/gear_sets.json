@@ -2,7 +2,7 @@
   "documentation": {
     "sets": "Set id -> name, colours, pieces (unique ids from unique_gear) and tiers. A piece counts while it sits in the player's attribute snapshot (worn in its intended slot, not broken, not above the player's level). Each unique counts once.",
     "tiers": "pieces = pieces needed; text = the tooltip line; grants = gear attributes added to the wearer's snapshot while the tier is active (values in the attribute's own units, 1.0 = 100%)",
-    "riptide": "Shared riptide tuning: hover friction is the extra per-tick horizontal speed multiplier during the hover, vertical damping the per-tick vertical one; the shock cone spans shockConeAhead blocks ahead of the player to shockConeBehind blocks behind, widening to shockConeRadius"
+    "riptide": "Shared riptide tuning: hover friction is the extra per-tick horizontal speed multiplier during the hover, vertical damping the per-tick vertical one; the shock cone spans shockConeAhead blocks ahead of the player to shockConeBehind blocks behind, widening to shockConeRadius; contactInflate grows the box that finds dash contacts by that many blocks per side; a dash that hits a wall ends only once its horizontal speed is below stallSpeed blocks per tick, and never in its first launchGraceTicks ticks"
   },
   "riptide": {
     "hoverHorizontalFriction": 0.8,
@@ -10,7 +10,10 @@
     "shockConeAhead": 2.0,
     "shockConeBehind": 3.0,
     "shockConeRadius": 4.0,
-    "stormVisualBoltsPerDash": 3
+    "stormVisualBoltsPerDash": 3,
+    "contactInflate": 0.5,
+    "stallSpeed": 0.1,
+    "launchGraceTicks": 3
   },
   "sets": {
     "woldsvaults:tidebreaker": {
@@ -52,7 +55,7 @@
         },
         {
           "pieces": 6,
-          "text": "While dashing, a storm shrouds you: you hover briefly after each dash, take 75% less damage, and lightning strikes every enemy you hit for 5x damage (15x if chilled).",
+          "text": "While dashing, a storm shrouds you: you hover briefly after each dash, take 75% less damage, and lightning strikes every enemy your dash or its shock cone hits for 5x damage (15x if chilled).",
           "grants": [
             {
               "attribute": "woldsvaults:riptide_hover",
