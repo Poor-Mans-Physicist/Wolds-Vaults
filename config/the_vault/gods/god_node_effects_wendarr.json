@@ -1,5 +1,53 @@
 {
   "effects": {
+    "wendarr_start_top": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.02
+      ],
+      "attribute": "the_vault:movement_speed",
+      "secondAttribute": "the_vault:cooldown_reduction"
+    },
+    "wendarr_start_bot": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.02
+      ],
+      "attribute": "the_vault:movement_speed",
+      "secondAttribute": "the_vault:cooldown_reduction"
+    },
+    "wendarr_start_swift": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.02
+      ],
+      "attribute": "the_vault:movement_speed",
+      "secondAttribute": "the_vault:cooldown_reduction"
+    },
+    "wendarr_start_deck": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.02
+      ],
+      "attribute": "the_vault:movement_speed",
+      "secondAttribute": "the_vault:cooldown_reduction"
+    },
+    "wendarr_start_spanner": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.02
+      ],
+      "attribute": "the_vault:movement_speed",
+      "secondAttribute": "the_vault:cooldown_reduction"
+    },
+    "wendarr_start_bough": {
+      "handler": "gear_attribute_scaled",
+      "values": [
+        0.02
+      ],
+      "attribute": "the_vault:movement_speed",
+      "secondAttribute": "the_vault:cooldown_reduction"
+    },
     "wendarr_fruit_conissour": {
       "handler": "gear_attribute_scaled",
       "values": [
