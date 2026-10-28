@@ -958,7 +958,7 @@ hash = "94942d1807cf16b6902b201552eff811e1d5c801d48dc33059eeb35095820690"
 
 [[files]]
 file = "config/the_vault/gear_sets.json"
-hash = "18681395d00e4c5d276d834e7da3fa55b9bbfe6b3b132ccc58431d2b8d477d19"
+hash = "e64f71a9ec1524544f316c5a658fe2b8722339d6826213d59afad97edda63082"
 
 [[files]]
 file = "config/the_vault/gear_workbench/axe.json"
