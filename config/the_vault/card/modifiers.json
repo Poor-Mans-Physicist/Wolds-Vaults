@@ -12317,10 +12317,6 @@
         "weight": 1.0
       },
       {
-        "value": "attack_speed",
-        "weight": 1.0
-      },
-      {
         "value": "cooldown_reduction",
         "weight": 1.0
       },
@@ -12419,10 +12415,6 @@
         "weight": 1.0
       },
       {
-        "value": "attack_speed_shiny",
-        "weight": 1.0
-      },
-      {
         "value": "healing_effectiveness_shiny",
         "weight": 1.0
       },
@@ -12482,10 +12474,6 @@
       },
       {
         "value": "deluxe_apflat",
-        "weight": 1.0
-      },
-      {
-        "value": "deluxe_attack_speed",
         "weight": 1.0
       },
       {
@@ -13298,10 +13286,6 @@
       },
       {
         "value": "amp_apflat",
-        "weight": 1.0
-      },
-      {
-        "value": "amp_attack_speed",
         "weight": 1.0
       },
       {
