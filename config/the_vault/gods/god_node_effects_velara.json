@@ -201,8 +201,8 @@
     "velara_the_stonewall": {
       "handler": "velara_the_stonewall",
       "values": [],
-      "speed_multiplier": 0.33,
-      "armor_multiplier": 1.5
+      "speed_multiplier": 0.4,
+      "armor_multiplier": 1.25
     },
     "velara_cactus": {
       "handler": "velara_cactus",
@@ -218,14 +218,14 @@
     "velara_immortal": {
       "handler": "velara_immortal",
       "values": [],
-      "health_multiplier": 1.33,
-      "armor_multiplier": 1.33,
-      "healing_multiplier": 1.5,
-      "flat_health": 20.0,
-      "flat_armor": 50.0,
-      "regeneration_levels": 10,
+      "health_multiplier": 1.25,
+      "armor_multiplier": 1.25,
+      "healing_multiplier": 1.33,
+      "flat_health": 15.0,
+      "flat_armor": 30.0,
+      "regeneration_levels": 8,
       "damage_multiplier": 0.5,
-      "revive_cooldown_ticks": 6000
+      "revive_cooldown_ticks": 12000
     },
     "velara_fleeting_physicality": {
       "handler": "velara_fleeting_physicality",
@@ -238,7 +238,7 @@
       "handler": "velara_steadfast",
       "values": [],
       "knockback_floor": 1.0,
-      "armor_per_excess": 1.0
+      "armor_per_excess": 0.5
     },
     "velara_sanitation": {
       "handler": "velara_sanitation",

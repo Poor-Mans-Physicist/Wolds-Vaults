@@ -63,6 +63,7 @@
     "the_vault:ap_scaling_damage":  "Your \u00A7bpercentage increase\u00A77 of damage on-hit based on your total Ability Power",
     "the_vault:chaining_damage":  "Your \u00A7bpercentage increase\u00A77 of damage done by Chaining attacks",
     "the_vault:thorns_scaling_damage":  "Your \u00A7bpercentage increase\u00A77 of damage on-hit based on your total Thorns",
+    "the_vault:thorns_damage_flat_percentile": "Your §bpercentage increase§7 of your flat §aThorns§7 damage",
     "the_vault:channeling_chance":  "Your \u00A7bchance\u00A77 for your Channeling Vault Trident to deal massive damage using lightning strikes",
     "the_vault:dismantling_chance":  "Your \u00A7bchance\u00A77 to slice an additional time when slicing chests open",
     "the_vault:echoing_chance":  "Your \u00A7bchance\u00A77 to deal damage an additional time",
