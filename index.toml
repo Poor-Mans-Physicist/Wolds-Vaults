@@ -15690,7 +15690,7 @@ hash = "3de2617f9a97da9e74bc9787fdd3b863ba7e371f768061738291c3f2e9d68d7d"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_idona.json"
-hash = "21035147f6a5885848157c48db24cb41e2bbf422b6562f11a28111c99a50b3b1"
+hash = "dc92462ebf39167995efb51178307770367beadfbc421f1031c25a01371c1c33"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_tenos.json"
@@ -15698,7 +15698,7 @@ hash = "1e57c87ccba098717126b384d39c525f31d8fb1666053874c7e3849e41dadfb0"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_velara.json"
-hash = "3d869286212ce0e9d12310454643ddb8ef0f5243fad21c325212c03815a51d75"
+hash = "3c51d03fe30b7555ded4e86490bbe093288f82a8902e8ae538e5a43b1729b217"
 
 [[files]]
 file = "config/the_vault/gods/god_node_effects_wendarr.json"
