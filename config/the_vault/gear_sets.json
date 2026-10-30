@@ -36,7 +36,8 @@
     "rodDamageMultiplier": 1.5,
     "rodCooldownTicks": 10,
     "thunderDamagePerSecond": 1.0,
-    "thunderRadius": 10.0
+    "thunderRadius": 10.0,
+    "thunderMinFormTicks": 60
   },
   "sets": {
     "woldsvaults:tidebreaker": {
