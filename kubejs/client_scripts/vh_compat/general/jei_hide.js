@@ -181,6 +181,8 @@ onEvent('jei.hide.items', event => {
     event.hide(/draconicevolution:.*_aoe_module/)
     event.hide(/draconicevolution:.*_speed_module/)
     event.hide(/dyenamicsandfriends:botanypots_.*/)
+    event.hide(/^justdirethings:upgrade_/)
+    event.hide('justdirethings:generatort1')
 
     event.hide(Item.of('minecraft:potion', {Potion: "the_vault:time_acceleration_x2"}))
     event.hide(Item.of('minecraft:potion', {Potion: "the_vault:time_acceleration_x3"}))
@@ -209,6 +211,7 @@ onEvent('jei.hide.items', event => {
     event.hide('sophisticatedbackpacks:copper_backpack')
     event.hide('sophisticatedbackpacks:stack_upgrade_starter_tier')
     event.hide('woldsvaults:augment_assembly_pedestal') //rip to a legend
+    event.hide('ae2additions:me_wireless_transceiver') //With ExtendedAE Backforge, don't need this hunk of junk
 })
 
 onEvent('jei.add.items', event => {

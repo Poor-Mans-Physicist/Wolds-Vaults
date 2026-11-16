@@ -1,13 +1,9 @@
 name = "Vault Hunters API"
-filename = "vhapi-5.8.0.jar"
+filename = "vhapi-5.8.0-wv-341a463.jar"
 side = "both"
+pin = true
 
 [download]
-hash-format = "sha1"
-hash = "875cd15643bb1dd03ca0f9f9e8ab51879f29fb15"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8571300
-project-id = 1118899
+url = "https://github.com/Poor-Mans-Physicist/Wolds-Vaults/releases/download/greed-test-20/vhapi-5.8.0-wv-341a463.jar"
+hash-format = "sha256"
+hash = "b7b07e43870e0fa9b4153dd164cb878dfa404c12e77ae31308a3304de45f16da"
