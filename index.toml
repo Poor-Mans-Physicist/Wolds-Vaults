@@ -21758,7 +21758,7 @@ hash = "3522625d167af3d141acaea353cdb291721b79a3ae5aa2d102641ed43f30996c"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/advancedae/recipes.js"
-hash = "2ec5761680ba1a6c62c45f3996028021b077ad2955ade8408c32bfb3959adbea"
+hash = "f0870228b8544c8e4462e2e97e9a3e3a224ed5a51d57f1ac988e5b463b47ab0f"
 
 [[files]]
 file = "kubejs/server_scripts/vh_compat/advancedperipherals/recipes.js"
@@ -24523,7 +24523,7 @@ metafile = true
 
 [[files]]
 file = "mods/wolds-vaults-official-mod.pw.toml"
-hash = "4ed39bf06e4088b5ddb3c8cb64308580db14db3a8684690268ebf9ce8b12e909"
+hash = "b6f9a912044a7963e644db7ca512b54eac46d3240faf3646a61376add23d2e87"
 metafile = true
 
 [[files]]
@@ -26181,10 +26181,6 @@ file = "resourcepacks/VH_Rainbow_XP_Bars.zip"
 hash = "9274673fd9f67f15c52869ef6ca76ad57642360e4f8d0c9003ef94aed7ad8a0c"
 
 [[files]]
-file = "resourcepacks/Vault-Loafers.zip"
-hash = "638117c75babc739712232dbde02edf0a0cbdabc36017691f3a48b9a4a3214f2"
-
-[[files]]
 file = "resourcepacks/Vault_Burger_Hunger_Bar.zip"
 hash = "aecc92b11d43b2b8f3c1ae670f882d4750d5f3fad9e81d216fdb7c9663b1789f"
 
@@ -26244,6 +26240,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/qiyanas-valley.pw.toml"
 hash = "f246c4abd5e7aa5ff987def2ecd6bc3a9641467e09cd66d59fd87a62d1334df9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vault-loafers.pw.toml"
+hash = "34f5c2a12f8cee8abf15c0ea66f36627cb9913e296ee4b0325ead35cd0464148"
 metafile = true
 
 [[files]]
