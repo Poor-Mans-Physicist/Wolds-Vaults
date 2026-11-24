@@ -22029,6 +22029,10 @@ file = "kubejs/server_scripts/vh_compat/laserio/recipes.js"
 hash = "f0516f5a6fa24fe78927f5a1302b50f9506eb686227fa03d80dde4eac9620b22"
 
 [[files]]
+file = "kubejs/server_scripts/vh_compat/lctech/recipes.js"
+hash = "6b13caabb4730c642e8892ac57015bca21104499858a72d5e725f25dd3e78bb6"
+
+[[files]]
 file = "kubejs/server_scripts/vh_compat/lightmans_currency/recipes.js"
 hash = "72317812fdacdde3b6c2d0b773b67d94e2e1fa1263a3f0f23e789fda69aaa36b"
 
